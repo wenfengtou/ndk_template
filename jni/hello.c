@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-void hello(){
-	printf("Fantistic!!!\n");
+void hello() {
+    printf("Fantistic!!!\n");
 }
