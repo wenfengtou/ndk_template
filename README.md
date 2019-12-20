@@ -7,4 +7,4 @@
 NDK_PATH=/root/Android/android-ndk-r20
 PATH=$NDK_PATH:$PATH
 
-##三.执行jni/build.sh
+##三.执行build.sh编译，编译结果在libs下面
